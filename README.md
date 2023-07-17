@@ -1,19 +1,12 @@
-<h1 align='center'>🦖Hi, I'm AJ Espinosa!</h1>
-A 20 year old aspiring frontend web developer and UI/UX designer from the Philippines. Currently studying Bachelor of Science in Computer Science at Cavite State University - Main Campus.
+<h1 align='center'>Hi, I'm Rod Cotines!</h1>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=eyrooonnn&label=Profile%20Views&color=blue&style=for-the-badge"/>
-  <a href="https://twitter.com/_eyrooonnn" target="blank"><img src="https://img.shields.io/twitter/follow/_eyrooonnn?url?label=Follow&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F_eyrooonnn"/></a>
-</p>
 
-- 🌱 I’m currently learning **Next JS** and **Tailwind CSS**
-- 🌱 I’m currently learning **new design trends**
-- 📫 How to reach me **aaronjoshua.espinosa@yahoo.com**
 
-#
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronjoshuaespinosa&show_icons=true&theme=aura" alt="eyrooonnn" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronjoshuaespinosa&show_icons=true&locale=en&layout=compact&theme=aura" alt="eyrooonnn" /></p>
+- 🔭 I’m currently learning **React JS** and **Tailwind CSS**
+- 📫 Contact me at  **rodcotines@gmail.com**
+
+
 <!--
 **Ayenzcc/Ayenzcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
