@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently learning **React JS** and **Tailwind CSS**
+- 🔭 I’m currently learning **React JS**, **Tailwind CSS** and **Tailwind CSS**
 - 📫 Contact me at  **rodcotines@gmail.com**
 
 
