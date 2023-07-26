@@ -1,5 +1,5 @@
 <img align='center' src="Eyyy.png"/>
-<h1 align="center">Hi 👋, I'm Rod Cotines</h1>
+<h1 align="center">Hi, I'm Rod Cotines</h1>
 <h3 align="center">A Computer Science Student</h3>
 
 
