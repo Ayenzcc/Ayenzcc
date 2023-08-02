@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS, React Native, Tailwind**
+- 🌱 I’m currently learning **React JS, React Native, Tailwind, Next.JS**
 
 
 <h3 align="left">Connect with me:</h3>
